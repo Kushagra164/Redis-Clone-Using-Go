@@ -132,10 +132,6 @@ GET key
 
 Contributions are welcome! Please submit a pull request or open an issue for any feature requests or bug reports.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgements
 
 Inspired by Redis, this project aims to deepen understanding of key-value store architecture and concurrency in Go.
